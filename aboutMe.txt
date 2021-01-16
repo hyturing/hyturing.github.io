@@ -1,25 +1,25 @@
 <span id="a">hyturing@github.io</span>:<span id="b">~</span><span id="c">$</span> cd hyturing/<!-- kjsdfhkjdhsfkjdshfkj -->aboutMe
 <span id="a">hyturing@github.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->aboutMe.txt<br/><br/>
-Hola Amigos! This is Hemant Kumar Yadav, "<span id="k">The more I learn, the more I realize how much I don't know</span>". <!-- sjkfhskjf --><br/>
+Hola Amigos! This is Hemant Kumar Yadav, "<span id="k">The more I learn, the more I realize how much I don't know</span>".<br/> <br/>
 
-I am currently pursuing my bachelor's degree in Engineering from Punjab Enginnering College, Chandigarh <!-- laglaglaglaaglaglaglag -->
+I am currently pursuing my bachelor's degree in Engineering from Punjab Enginnering College, Chandigarh <br/> <br/>
 
 <p>I enjoy coding, doing pure and applied mathematics, solving interesting problems, reading sci-fi books, watching sci-fi movies and tv series, surfing internet and imagining future technologies :)</p>
 
-<!-- fkjahdfkjhafkjhakf -->
+<br/> <br/>
 
 <p>I am currently exploring fields like Machine Learning, Neural Networks, Computer Vision, Android Development, and I am also very interested in research some of my favourite topics are meta materials, genetic engineering, quantum computing and p vs np problem. </p>
 
 
-<!-- kjdhjdfkjdfffsf -->
+<br/> <br/>
 
 <p>My favourite tv shows are: The Big Bang Theory, Star Trek, Doctor Who, Raised By The Wolves and Lost in Space. <br> My favourite books are the Foundation Series by Issac Aismov.</p>
 
-<!-- hfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<br/> <br/>
 
 <p>I also like to do commpetitve programming. Data Structures and Algorithms gives me goosebumps. XD</p>
 
-<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<br/> <br/>
 
 <p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/hyturing/">LinkedIn, </a><a href="https://codeforces.com/profile/hyturing">Codeforces, </a><a href="https://github.com/hyturing">Github, </a><a href="https://www.codechef.com/users/hyturing">Codechef, </a><a href="https://www.instagram.com/hyturing27">Instagram. :P </a></p>
 
