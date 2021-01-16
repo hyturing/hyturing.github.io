@@ -2,20 +2,20 @@
 <span id="a">hyturing@github.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->aboutMe.txt<br/><br/>
 Hola Amigos! This is Hemant Kumar Yadav, "<span id="k">The more I learn, the more I realize how much I don't know</span>". <!-- sjkfhskjf --><br/>
 
-I am currently pursuing my bachelor's degree in Engineering from Punjab Enginnering College, Chandigarh <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+I am currently pursuing my bachelor's degree in Engineering from Punjab Enginnering College, Chandigarh <!-- laglaglaglaaglaglaglag -->
 
 <p>I enjoy coding, doing pure and applied mathematics, solving interesting problems, reading sci-fi books, watching sci-fi movies and tv series, surfing internet and imagining future technologies :)</p>
 
-<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<!-- fkjahdfkjhafkjhakf -->
 
 <p>I am currently exploring fields like Machine Learning, Neural Networks, Computer Vision, Android Development, and I am also very interested in research some of my favourite topics are meta materials, genetic engineering, quantum computing and p vs np problem. </p>
 
 
-<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<!-- kjdhjdfkjdfffsf -->
 
 <p>My favourite tv shows are: The Big Bang Theory, Star Trek, Doctor Who, Raised By The Wolves and Lost in Space. <br> My favourite books are the Foundation Series by Issac Aismov.</p>
 
-<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<!-- hfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
 <p>I also like to do commpetitve programming. Data Structures and Algorithms gives me goosebumps. XD</p>
 
