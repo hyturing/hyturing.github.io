@@ -7,7 +7,7 @@ I am currently pursuing my bachelor's degree in Engineering from Punjab Enginner
 <br>I am currently exploring fields like Machine Learning, Neural Networks, Computer Vision, Android Development, and I am also very interested in research some of my favourite topics are meta materials, genetic engineering, quantum computing and p vs np problem. <br>
 <br><br>My favourite tv shows are: The Big Bang Theory, Star Trek, Doctor Who, Raised By The Wolves and Lost in Space. <br><br> My favourite books are the Foundation Series by Issac Aismov.<br>
 <br><br>
-I also like to do commpetitve programming. Data Structures and Algorithms gives me goosebumps. XD<br>
+I also like to do competitve programming. Data Structures and Algorithms gives me goosebumps. XD<br>
 <br><br> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/hyturing/">LinkedIn, </a><a href="https://codeforces.com/profile/hyturing">Codeforces, </a><a href="https://github.com/hyturing">Github, </a><a href="https://www.codechef.com/users/hyturing">Codechef, </a><a href="https://www.instagram.com/hyturing27">Instagram. :P </a></p>
 
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <span id="k">hyturing@gmail.com</span>.
