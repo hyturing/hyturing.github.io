@@ -15,7 +15,7 @@ THREE.DigitalGlitch = {
 	uniforms: {
 
 		"tDiffuse":		{ value: null },//diffuse texture
-		"tDisp":		{ value: null },//displacement texture for digital glitch squares
+		"tDisp":		{ value: 0 },//displacement texture for digital glitch squares
 		"byp":			{ value: 0 },//apply the glitch ?
 		"amount":		{ value: 0.08 },
 		"angle":		{ value: 0.02 },
