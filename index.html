@@ -18,6 +18,8 @@
           transform: translateX(-50%);
           font-size: 2.5em;
           font-family: 'Great Vibes', cursive;
+          width: 80%; /* Take up 80% of the screen width */
+          max-width: 600px; /* Limit maximum width */
           color: #3178e3;
           text-align: center;
           background: rgba(255, 255, 255, 0.8);
@@ -31,6 +33,13 @@
       @keyframes fadeIn {
           from { opacity: 0; }
           to { opacity: 1; }
+      }
+
+      /* Media query for phones */
+      @media screen and (max-width: 768px) {
+          .message {
+              font-size: 2.0em; /* Reduced font size for phones */
+          }
       }
   </style>
 </head>
